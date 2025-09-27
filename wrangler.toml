@@ -1,0 +1,6 @@
+name = "ai-img"
+compatibility_date = "2025-09-27"
+main = "worker.js"
+
+[site]
+bucket = "."
